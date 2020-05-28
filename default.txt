@@ -1,9 +1,8 @@
 <chart>
 id=132351666812423500
 symbol=EURUSD
-period=10
-leftpos=50637
-offline=1
+period=60
+leftpos=2000
 digits=5
 scale=32
 graph=1
@@ -26,14 +25,14 @@ window_right=1394
 window_bottom=342
 window_type=3
 background_color=0
-foreground_color=6579300
+foreground_color=11053224
 barup_color=16748574
 bardown_color=255
 bullcandle_color=16748574
 bearcandle_color=255
 chartline_color=16748574
 volumes_color=16748574
-grid_color=4079166
+grid_color=2368548
 askline_color=55295
 stops_color=255
 
