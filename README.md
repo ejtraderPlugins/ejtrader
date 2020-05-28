@@ -1,2 +1,0 @@
-# ejtrader
-# ejtrader
